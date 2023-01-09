@@ -1,0 +1,10 @@
+C:\Users\Hizbulllah Bhatti\source\repos\DatabaseApplicationStart\DatabaseApplicationStart\bin\Debug\DatabaseApplicationStart.exe.config
+C:\Users\Hizbulllah Bhatti\source\repos\DatabaseApplicationStart\DatabaseApplicationStart\bin\Debug\DatabaseApplicationStart.exe
+C:\Users\Hizbulllah Bhatti\source\repos\DatabaseApplicationStart\DatabaseApplicationStart\bin\Debug\DatabaseApplicationStart.pdb
+C:\Users\Hizbulllah Bhatti\source\repos\DatabaseApplicationStart\DatabaseApplicationStart\obj\Debug\DatabaseApplicationStart.csprojAssemblyReference.cache
+C:\Users\Hizbulllah Bhatti\source\repos\DatabaseApplicationStart\DatabaseApplicationStart\obj\Debug\DatabaseApplicationStart.Form1.resources
+C:\Users\Hizbulllah Bhatti\source\repos\DatabaseApplicationStart\DatabaseApplicationStart\obj\Debug\DatabaseApplicationStart.Properties.Resources.resources
+C:\Users\Hizbulllah Bhatti\source\repos\DatabaseApplicationStart\DatabaseApplicationStart\obj\Debug\DatabaseApplicationStart.csproj.GenerateResource.cache
+C:\Users\Hizbulllah Bhatti\source\repos\DatabaseApplicationStart\DatabaseApplicationStart\obj\Debug\DatabaseApplicationStart.csproj.CoreCompileInputs.cache
+C:\Users\Hizbulllah Bhatti\source\repos\DatabaseApplicationStart\DatabaseApplicationStart\obj\Debug\DatabaseApplicationStart.exe
+C:\Users\Hizbulllah Bhatti\source\repos\DatabaseApplicationStart\DatabaseApplicationStart\obj\Debug\DatabaseApplicationStart.pdb
